@@ -82,10 +82,8 @@
 				469738C22ABF3E1900E5A739 /* Model */,
 				469738B32ABEA0C900E5A739 /* Controllers */,
 				469738B22ABEA0B800E5A739 /* Views */,
-				469738B12ABEA0A700E5A739 /* Models */,
 				4697389D2ABEA03700E5A739 /* AppDelegate.swift */,
 				4697389F2ABEA03700E5A739 /* SceneDelegate.swift */,
-				469738A32ABEA03700E5A739 /* Main.storyboard */,
 				469738A62ABEA03800E5A739 /* Assets.xcassets */,
 				469738A82ABEA03800E5A739 /* LaunchScreen.storyboard */,
 				469738AB2ABEA03800E5A739 /* Info.plist */,
@@ -95,18 +93,12 @@
 			path = ChattingApp;
 			sourceTree = "<group>";
 		};
-		469738B12ABEA0A700E5A739 /* Models */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = Models;
-			sourceTree = "<group>";
-		};
 		469738B22ABEA0B800E5A739 /* Views */ = {
 			isa = PBXGroup;
 			children = (
 				469738C72ABF406E00E5A739 /* MessageCell.swift */,
 				469738C82ABF406E00E5A739 /* MessageCell.xib */,
+				469738A32ABEA03700E5A739 /* Main.storyboard */,
 			);
 			path = Views;
 			sourceTree = "<group>";
